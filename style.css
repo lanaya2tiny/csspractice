@@ -13,7 +13,7 @@ h1, h2 , h3{
     margin: 0;
 }
 #container{
-    background-color:White;
+    background-color:Purple;
     width:  800px;
     margin-left: auto;
     margin-right: auto; 
@@ -43,6 +43,7 @@ h1, h2 , h3{
     #main{
         width: 600px;
         float: right;
+        font-size: larger;
     }
 
     #footer{
